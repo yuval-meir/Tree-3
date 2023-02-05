@@ -30,3 +30,4 @@ If you find Tree-3 useful in your research, please consider citing:
 
 ## Results:
 ![image](https://github.com/yuval-meir/Tree-3/blob/main/images/table.JPG)
+For more details please check the [article](https://www.nature.com/articles/s41598-023-27986-6).
